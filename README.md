@@ -2,10 +2,15 @@
 ### The purpose of this project is to master the exploratory data analysis (EDA) with Pandas framework.
 
 ### Goals of the Project:
-
 - Explore a spotify songs dataset with Pandas framework.
 - Build pivot tables.
 - Visualize the dataset with various plot types.
 
-### Materials
+### Materials:
 The data that we are going to use for this is a set of an open source kaggle website: https://www.kaggle.com/datasets/ektanegi/spotifydata-19212020.
+
+### Used Libraries:
+1. Pandas
+2. Matplotlib
+3. Seaborn
+4. Warnings
